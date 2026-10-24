@@ -1,4 +1,4 @@
-# SkyReady (SIH26249)
+# SkyReady 
 ## Predictive Maintenance & Fleet Availability Optimizer
 
 > **Ministry of Defence (MoD) / Defence Services Staff College (DSSC)**  
